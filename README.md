@@ -1,7 +1,17 @@
-Hi if you read this you probably were testing urls and websites after i shared this site or you don't know what it is
+# Guía Rápida: Cómo abrir el archivo
 
-I made this site to practice english pronounciation in a way that would apeal to spanish speakers.
+### Paso 1: Guarda el archivo
+* Descarga el archivo **`Ingles.html`** y guárdalo en un lugar fácil de encontrar (por ejemplo, en tu **Escritorio**).
 
-Its mostly vibe coded and is just a test for what could become something bigger in the future (:
+---
 
-Cya
+### Paso 2: Ábrelo con Google Chrome
+1. Busca el archivo **`Ingles.html`** donde lo guardaste.
+2. Haz **clic derecho** sobre el archivo.
+3. En el menú que aparece, pasa el ratón sobre **Abrir con...**
+4. Selecciona **Google Chrome** de la lista.
+
+---
+
+> [!NOTE]
+> Si no ves "Google Chrome" de inmediato, haz clic en **Elegir otra aplicación** y selecciónalo ahí.
